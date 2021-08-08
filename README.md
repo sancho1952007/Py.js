@@ -1,4 +1,4 @@
-# *Py.js* :-
+# *[Py.js](https://sancho1952007.github.io/Py.js/)* :-
 
 <br>
 
@@ -8,7 +8,7 @@
 <br>
 
 ## *How To Preview Py.js?*
--> Just Click **[Here](https://sancho1952007.github.io/)** to Preview...
+-> Just Click **[Here](https://sancho1952007.github.io/Py.js/)** to Preview...
 
 <br>
 
