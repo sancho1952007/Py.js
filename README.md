@@ -12,6 +12,16 @@
 
 <br>
 
+## *Exampes:-*
+```python
+x=input("Enter Your Name: ")
+print("Entered Value: "+x)
+```
+
+***Note: Please Use This Code In You JS Console After Importing this Script...***
+
+<br>
+
 ## *Which is The Current Version?*
 -> Current Version is **1.0.0**
 
