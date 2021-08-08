@@ -22,6 +22,14 @@ print("Entered Value: "+x)
 
 <br>
 
+## *How To Use It in My Code?*
+***Just Import It Using jsdelivr :-***
+```html
+<script src="https://cdn.jsdelivr.net/gh/sancho1952007/Py.js/main.js"></script>
+```
+
+<br>
+
 ## *Which is The Current Version?*
 -> Current Version is **1.0.0**
 
