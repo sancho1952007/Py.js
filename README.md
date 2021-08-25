@@ -25,7 +25,7 @@ print("Entered Value: "+x)
 ## *How To Use It in My Code?*
 ***Just Import It Using jsdelivr :-***
 ```html
-<script src="https://cdn.jsdelivr.net/gh/sancho1952007/Py.js/main.js"></script>
+<script src="https://sancho1952007.github.io/Py.js/main.js"></script>
 ```
 ***Note: This Script Will Automatically Import The Latest Version of Py.js.<br>If You Want Only The Current Version, Consider Downloading The main.js Script...***
 
