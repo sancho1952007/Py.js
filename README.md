@@ -23,7 +23,6 @@ print("Entered Value: "+x)
 <br>
 
 ## *How To Use It in My Code?*
-***Just Import It Using jsdelivr :-***
 ```html
 <script src="https://sancho1952007.github.io/Py.js/main.js"></script>
 ```
