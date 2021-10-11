@@ -10,4 +10,71 @@
     
 </body>
 <script src='main.js'></script>
+</html><!DOCTYPE html>
+<html>
+    <head>
+        <title>Python In WEB Using Py.js</title>
+        <script src="https://sancho1952007.github.io/Py.js/main.js"></script>
+    </head>
+    <body>
+        <center><textarea class="code"></textarea></center>
+        <center><button class='run' onclick='Run()'>► Execute</button></center>
+    </body>
 </html>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400&display=swap');
+
+.code{
+    width: 95%;
+    height: 90vh;
+    resize: none;
+    border: 1px solid grey;
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+    border-radius: 10px;
+}
+
+.code:focus{
+    border: 1px solid black;
+}
+
+.run{
+    font-size: 20px;
+    cursor: pointer;
+    border: 0px;
+    border-radius: 50px;
+    background-color: lightgrey;
+    padding: 5px;
+}
+
+*{
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+}
+</style>
+
+<script>
+    alert(`Created By: Sancho Godinho
+Made Using: Py.js Library (Also Developed By Sancho Godinho)
+Licence: MIT
+Py.js URL: https://github.com/sancho1952007/Py.js
+
+Notes: Please Upvote(+1) This Code...
+
+Functions:
+Variables,
+input()
+print()
+{String}.upper()
+{String}.lower()
+{String}.isdigit()
+Also, Please Open Your JS Console To Get The Results...`)
+    
+    function Run(){
+        if (!document.querySelector('.code').value.trim()==''){
+            console.log(eval(document.querySelector('.code').value))
+        }
+        else{}
+    }
+</script>
