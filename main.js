@@ -11,3 +11,8 @@ function input(text2){
         return 'None';
     }
 }
+
+
+window.onload=function (){
+    console.log('Py.js Will Be Shutdown For A While Due To An Awesome Upgrade...')
+}
