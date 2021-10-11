@@ -31,7 +31,7 @@ print("Entered Value: "+x)
 <br>
 
 ## *Which is The Current Version?*
--> Current Version is **1.0.0**
+-> Current Version is **1.1**
 
 <br><br>
 
